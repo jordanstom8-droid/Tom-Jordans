@@ -1,1 +1,2 @@
 Repo's name = Tom-Jordans
+email = jordanstom8@gmail.com
